@@ -1,0 +1,8 @@
+k8e - Kristoffer's Chip-8 Emulator
+Version 1.1
+
+Author:     KA Wright
+Email:      kris.al.wright@gmail.com
+
+Copyright (C) 2024  KA Wright
+

@@ -1,0 +1,42 @@
+k8e FILENAME [-a] [-b ADDR] [-B COLOR] [-c FREQ] [-F COLOR] [-d] [-h] [-l PATH] 
+             [-m] [-p] [-P SZ] [-t PITCH]
+
+OPTIONS:
+
+-a          Display description, author, and version info
+-b ADDR     Set a breakpoint (up to 16)
+-B COLOR    Set background color
+-c FREQ     Set clock frequency
+-F COLOR    Set foreground color
+-d          Print debug info to console
+-h          Display this help text
+-l PATH     Load savestate
+-m          Disable sound
+-p          Begin program in paused state
+-P SZ       Set pixel size
+-t PITCH    Set tone pitch
+
+
+KEYBOARD:
+
+Original        K8E 
+Layout          Layout
+
+1 2 3 C         7 8 9 0
+
+4 5 6 D         U I O P
+
+7 8 9 E         J K L :
+
+A 0 B F         M , . /
+
+
+COMMANDS:
+
+d   Dump RAM
+q   Quit program
+r   Resume execution
+s   Step 1 instruction
+t   Dump savestate
+x   Pause execution
+
